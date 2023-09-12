@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/wZk8yjQ/thought-catalog-505eect-W54k-unsplash.jpg",
+    "title": "Web Development Basics",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/vBz27fq/pretty-curly-young-woman-writing-notes-startup-project.jpg",
+    "posted_date": "Sep 5 (7 days ago)",
+    "reading_time": 10,
+    "hashtags": ["#webdev", "#beginner", "#coding"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/BBVGWWd/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+    "title": "Football Strategies",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/HxbDpP0/medium-shot-woman-with-diary-book.jpg",
+    "posted_date": "Sep 6 (6 days ago)",
+    "reading_time": 15,
+    "hashtags": ["#football", "#strategy", "#sports"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/31NwYYp/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+    "title": "Introduction to Islam",
+    "author": "Ahmed Ali",
+    "author_img": "https://i.ibb.co/sw8qVZd/student-holding-coffee-taking-notes.jpg",
+    "posted_date": "Sep 7 (5 days ago)",
+    "reading_time": 12,
+    "hashtags": ["#islam", "#religion", "#faith"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/6tSrhDG/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+    "title": "Responsive Web Design",
+    "author": "Maria Rodriguez",
+    "author_img": "https://i.ibb.co/yWT3XxM/serious-young-caucasian-female-blogger-sitting-desk-with-open-notebook-glasses-mug-making-notes-whil.jpg",
+    "posted_date": "Sep 8 (4 days ago)",
+    "reading_time": 8,
+    "hashtags": ["#webdesign", "#responsive", "#frontend"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/Q6BC93S/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "Football Legends",
+    "author": "David Johnson",
+    "author_img": "https://i.ibb.co/cLQmvKf/portrait-concentrated-redhead-man-writing-notebook.jpg",
+    "posted_date": "Sep 9 (3 days ago)",
+    "reading_time": 20,
+    "hashtags": ["#football", "#legends", "#history"]
+  }
+]
